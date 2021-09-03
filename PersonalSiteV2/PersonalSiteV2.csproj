@@ -67,11 +67,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\img\amandaallen %281%29.jpg" />
+    <Content Include="assets\img\ashleysmith.jpg" />
+    <Content Include="assets\img\calebmitchell.jpg" />
     <Content Include="assets\img\favicon.ico" />
+    <Content Include="assets\img\logo.jpg" />
+    <Content Include="assets\img\MasqueOfTheRedDeath.png" />
+    <Content Include="assets\img\michaelrussell.jpg" />
+    <Content Include="assets\img\personal-site-background.jpg" />
     <Content Include="assets\img\profile.jpg" />
+    <Content Include="assets\img\TheRingAndTheRaven.png" />
+    <Content Include="assets\img\williammccarty.jpg" />
+    <Content Include="assets\jacobroelofsz.jpg" />
     <Content Include="css\styles.css" />
     <Content Include="images\corey_anderson.jpg" />
     <Content Include="index.html" />
+    <Content Include="js\main.js" />
     <Content Include="js\scripts.js" />
     <Content Include="Web.config" />
   </ItemGroup>
